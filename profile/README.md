@@ -9,3 +9,6 @@ https://softeer.ai/app
 - ☎️ : 010-2362-3612
 - 📫 : rlawldud335@hyundai-ngv.com
 
+## 과업범위
+- MEDIUM : 10개
+- HARD : 10개
